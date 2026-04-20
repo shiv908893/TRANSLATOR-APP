@@ -1,0 +1,61 @@
+{
+  "history": [
+    {
+      "timestamp": "2026-04-20 14:04:44",
+      "original": "hello",
+      "translated": "Bonjour",
+      "src_lang": "en",
+      "dest_lang": "fr"
+    },
+    {
+      "timestamp": "2026-04-20 14:04:26",
+      "original": "Bonjour",
+      "translated": "Bonjour",
+      "src_lang": "auto",
+      "dest_lang": "fr"
+    },
+    {
+      "timestamp": "2026-04-20 14:04:09",
+      "original": "hello",
+      "translated": "Bonjour",
+      "src_lang": "auto",
+      "dest_lang": "fr"
+    },
+    {
+      "timestamp": "2026-04-20 14:01:38",
+      "original": "Hello",
+      "translated": "Ciao",
+      "src_lang": "auto",
+      "dest_lang": "it"
+    },
+    {
+      "timestamp": "2026-04-20 14:01:36",
+      "original": "Hello",
+      "translated": "Ciao",
+      "src_lang": "auto",
+      "dest_lang": "it"
+    },
+    {
+      "timestamp": "2026-04-20 13:53:40",
+      "original": "hello",
+      "translated": "Bonjour",
+      "src_lang": "en",
+      "dest_lang": "fr"
+    },
+    {
+      "timestamp": "2026-04-20 13:53:37",
+      "original": "hello",
+      "translated": "Bonjour",
+      "src_lang": "en",
+      "dest_lang": "fr"
+    }
+  ],
+  "favorites": [
+    {
+      "original": "hello",
+      "translated": "Bonjour",
+      "src_lang": "en",
+      "dest_lang": "fr"
+    }
+  ]
+}
